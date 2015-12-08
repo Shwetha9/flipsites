@@ -1,0 +1,19 @@
+
+	html, body {
+		height: 100%;
+	}
+	body { 
+		margin: 0px; 
+	} 
+
+	object {
+		outline: none;
+	}
+
+#divEmail {
+	position: absolute; 
+	width: 10; 
+	height: 10; left: 10; 
+	top: 10; 
+	visibility:hidden
+} 

@@ -1,0 +1,73 @@
+
+/* You can change the height of the carousel by changing the height in the class below. It is set to 50% by default, but can be any height! */
+html,
+body, #testimonialSlider {
+    height: 100%;
+}
+
+
+.carousel {
+    height: 60%;
+}
+
+.item,
+.active,
+.carousel-inner {
+    height: 100%;
+}
+
+
+.industry-associations {
+    max-width: 500px;  
+    margin-left:auto; 
+    margin-right: auto;
+}
+@media only screen and (max-width: 767px) {
+.carousel-caption {
+    bottom: 15%;
+}
+.slider-cta-buttons li {
+ margin-bottom: 10px;
+}
+}
+
+.carousel-control {
+    color: #006699;
+}
+
+.carousel-control .glyphicon-chevron-left, 
+.carousel-control .glyphicon-chevron-right, 
+.carousel-control .icon-next, 
+.carousel-control .icon-prev {
+    font-size: 40px;
+    height: 50px;
+    width: 50px;
+}
+
+.carousel-control .glyphicon-chevron-left, 
+.carousel-control .icon-prev {
+    left: 15%;
+}
+.carousel-control .glyphicon-chevron-right, 
+.carousel-control .icon-next {
+    right: 15%;
+}
+
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position:center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+

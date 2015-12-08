@@ -1,0 +1,66 @@
+
+#sort-programs > ul > li {
+    cursor: pointer;
+    margin-bottom:5px;
+}
+
+
+/*course details styling*/
+
+.course-details {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.price-box {
+    background-color: #fff;
+}
+
+
+/*carousel override*/
+.carousel-caption {
+    background-color: rgba(3,3,3,0.6);
+    border-radius: 2px;
+    bottom: 0%;
+    padding:30px;
+    margin-top: 30px;
+}
+
+
+
+#program-categories {
+    background-color: #fff;
+}
+
+#program-categories * {
+    text-transform: capitalize;
+}
+
+#program-categories .sort-list li > a{
+    font-size: 16px;
+}
+
+#popular-programs .program {
+    margin-bottom: 40px;
+}
+
+
+#programs .sort-list li a {
+    color: #00cccc;
+    text-transform: capitalize;
+}
+
+.program-groups h4 {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: #fff!important;
+    text-align: center;
+}
+
+/*.footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 430px;
+}*/

@@ -1,0 +1,24 @@
+
+#pricing-table-design h1 {
+	margin-top: 100px;
+}
+
+.value .price {
+	font-size: 25px;
+	font-family: 'Montserrat','Helvetica', sans-serif;
+}
+
+ .pricing-table-reco {
+	    box-shadow: 2px 2px 6px #333;
+}
+
+.banner {
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.course-reviews {
+	max-height: 630px;
+	overflow: scroll;
+	text-align: center;
+}

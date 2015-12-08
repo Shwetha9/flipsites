@@ -1,0 +1,136 @@
+/*!
+ * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+ header *  {
+    color: #fff!important;
+}
+
+#mainNav {
+    min-height: 80px;
+}
+
+
+aside {
+    padding: 50px 0;
+}
+
+
+.no-padding {
+    padding: 0;
+}
+
+
+/*header-home*/
+ #main-header {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-image: url('../img/header.jpg');
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+
+
+.marketing-bottom-bg {
+    background-color: rgba(0,102,153,0.7);
+    padding: 20px 0;
+    min-height: 60px;
+    border-right: 1px solid #fff;
+    font-size: 18px;
+    color: #333;
+}
+
+.marketing-bottom-absolute {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.header-bottom-content a i {
+    position: absolute;
+    bottom:0;
+
+}
+
+/* currently not in use
+.service-box {
+    margin: 50px auto 0;
+    max-width: 400px;
+}
+
+@media(min-width:992px) {
+    .service-box {
+        margin: 20px auto 0;
+    }
+}
+
+.service-box p {
+    margin-bottom: 0;
+}*/
+
+
+
+.call-to-action h2 {
+    margin: 0 auto 20px;
+}
+
+.no-gutter > [class*=col-] {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+
+
+/*--------------------------- MEDIA QUERIES QAing MOBILE ONLY STYLES 641Px---------------------*/
+
+@media only screen and (max-width: 48em) { 
+
+    header {
+        background-position:right center;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+    #mainNav {
+        min-height: 60px;
+    }
+
+    .testimonial_overlay {
+        padding: 10px 15px;
+    }
+
+}
+
+

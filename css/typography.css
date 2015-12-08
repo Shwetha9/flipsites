@@ -1,0 +1,167 @@
+body {
+	font-size: 15px !important;
+	color: #333!important;
+	font-family: 'Raleway', 'Helvetica', sans-serif;
+	font-weight: 500;
+	line-height: 1.8;
+}
+
+
+
+h1,h2,h3,h4,h5,h6, .h1,.h2,.h3,.h4,.h5,.h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
+	font-family: 'Montserrat','Helvetica', sans-serif;
+	color: #006699!important;
+	text-transform: uppercase;
+}
+
+
+a:hover {
+	text-decoration: none;
+	color: #0099cc!important;
+}
+
+a.btn-primary:hover {
+	color: #eee!important;
+}
+
+h1,h2 {
+	font-weight: 500!important;
+}
+
+h1 {
+	font-size: 3em!important;
+}
+
+.section-heading-light {
+	color: #fff!important;
+}
+
+.section-heading-dark {
+	color: #333!important;
+}
+
+
+a {
+    color: #006699;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+    font-weight: 500;
+}
+
+p {
+	font-size: 15px;
+	color: #333;	
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.lead {
+	font-size: 18px!important;
+	color: #666;
+	font-weight: inherit;
+}
+
+.marketing-heading {
+	font-size: 3.2em!important;
+	margin-top: 0;
+}
+
+.marketing-lead {
+	font-size: 22px!important;
+	margin-bottom: 30px;
+	font-weight: 300;
+}
+
+.pricing-text {
+	font-size: 18px!important;
+	font-family: 'Montserrat','Helvetica', sans-serif;
+	font-weight: 700;
+	color: #666;
+}
+
+a.btn {
+	font-family: 'Montserrat','Helvetica', sans-serif;
+	font-size: 14px;
+	margin: 0 auto;
+}
+
+a.btn-secondary:hover {
+	color: #aaa!important;
+}
+
+.text-light{
+	color: #fff!important;
+}
+
+.text-dark{
+	color: #333!important;
+}
+
+.flip-blue {
+	color: #006699!important;
+}
+
+.flip-green {
+	color: #009933!important;
+}
+
+.flip-light-green{
+	color: #00cccc!important;
+}
+
+
+.flip-grey-dark{
+	color: #555!important;
+}
+
+.flip-grey-light {
+	color: #aaa!important;
+
+}
+
+
+/*-----------------------------DESIGN SPECIFIC TO HOME PAGE------------------------------------*/
+
+header .header-content .header-content-inner h1 {
+    font-weight: 700;
+    color: #fff!important;
+    font-size:2.2em;
+}
+
+
+ .header-content .header-content-inner hr {
+    margin: 10px auto;
+}
+
+header .header-content .header-content-inner p {
+    font-size: 16px;
+    font-weight: 300;
+    color: rgba(255,255,255,.7);
+}
+
+li a.nav-link_institutions {
+	color: #00cccc!important;
+}
+.navbar-default.affix .nav > li>a.nav-link_institutions, 
+.navbar-default.affix .nav> li>a.nav-link_institutions:focus
+ {
+	color: #333!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
